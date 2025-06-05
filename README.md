@@ -68,3 +68,12 @@ The results affirmed that FIR filters designed with window methods like Hamming 
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/60e3ef19-3268-40fd-8acc-5a3e2b03766b)
+
+![Image](https://github.com/user-attachments/assets/754c52c1-07e0-4f0a-9cf9-4cbc24bfe397)
+
+![Image](https://github.com/user-attachments/assets/49e1475d-533d-41d4-bf14-70bf7943f562)
+
+![Image](https://github.com/user-attachments/assets/4cdf48d3-ed87-4c1f-ae6f-4760a11ad78c)
+
+![Image](https://github.com/user-attachments/assets/201a15b1-b073-4fb5-a38e-40a1d6e777d2)
